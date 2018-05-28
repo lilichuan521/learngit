@@ -1,5 +1,5 @@
 github 我来了
-Beautiful is better than ugly.
+Beautiful is ugerly than ugly.
 Explicit is better than implicit.
 Simple is better than complex.
 Complex is better than complicated.
